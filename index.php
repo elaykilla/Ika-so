@@ -1,4 +1,5 @@
 <?php 
+
 session_start();
 $context = array();
 if($_GET['action']=='offer/submit')
