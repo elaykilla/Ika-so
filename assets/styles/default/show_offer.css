@@ -1,0 +1,107 @@
+#offer_blown_img {
+position:absolute;
+height: 250px; width:200px;
+border-style:solid; border-width:1px;
+background:green;
+}
+
+#offer_blown_content{
+position:absolute; left:220px;
+height: 250px; width:350px;
+border-style:solid; border-width:1px;
+background:blue;
+}
+
+#offer_blown_ext_content {
+position:absolute; top:270px;
+height: 250px; width:560px;
+border-style:solid; border-width:1px;
+background:yellow;
+}
+
+
+#offer_ins
+{
+	position:relative; 
+	border-style: solid; border-width: 0px;
+	width:700px; height:700px;
+}
+#offer_ins_1
+{
+	position:absolute; left:5%;
+	border-style: solid; border-width: 1px; border-color:#AEAEAE;
+	width:200px; height:270px;
+
+}
+#offer_ins_2
+{
+	position:absolute;  left:calc(200px + 25px + 5%);
+	border-style: solid; border-width: 1px; border-color:#AEAEAE;
+	width:200px; height:270px;
+
+}
+#offer_ins_3
+{
+	position:absolute; left:calc(200px + 200px + 25px + 25px + 5%);;
+	border-style: solid; border-width: 1px; border-color:#AEAEAE;
+	width:200px; height:270px;
+	
+}
+#offer_ins_4
+{
+	position:absolute; top:calc(200px + 25px + 70px); left:calc(50% - 225px);
+	border-style: solid; border-width: 1px; border-color:#AEAEAE;
+	width:200px; height:270px;
+	
+}
+#offer_ins_5
+{
+	position:absolute; top:calc(200px + 25px + 70px); left:calc(50%);
+	border-style: solid; border-width: 1px; border-color:#AEAEAE;
+	width:200px; height:270px;
+	
+}
+
+#offer_ins_1_form
+{
+	position:absolute; bottom:0px;
+	border-style: solid; border-width: 1px; border-color:#AEAEAE;
+	border-left-width:0px; border-right-width:0px;
+	width:200px; height:50px;
+	
+}
+#offer_ins_2_form
+{
+	position:absolute;  bottom:0px;
+	border-style: solid; border-width: 1px; border-color:#AEAEAE;
+	border-left-width:0px; border-right-width:0px;
+	width:200px; height:50px;
+
+}
+#offer_ins_3_form
+{
+	position:absolute; bottom:0px;
+	border-style: solid; border-width: 1px; border-color:#AEAEAE; 
+	border-left-width:0px; border-right-width:0px;
+	width:200px; height:50px;
+
+}
+#offer_ins_4_form
+{
+	position:absolute; bottom:0px;
+	border-style: solid; border-width: 1px; border-color:#AEAEAE; 
+	border-left-width:0px; border-right-width:0px;
+	width:200px; height:50px;
+	
+}
+#offer_ins_5_form
+{
+	position:absolute; bottom:0px;
+	border-style: solid; border-width: 1px; border-color:#AEAEAE; 
+	border-left-width:0px; border-right-width:0px;
+	width:200px; height:50px;
+	
+}
+
+
+
